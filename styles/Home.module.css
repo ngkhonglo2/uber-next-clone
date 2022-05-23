@@ -1,5 +1,9 @@
 .container {
   padding: 0 2rem;
+  height: 100vh;
+  display: flex;
+  background-color: blue;
+  flex-direction: column;
 }
 
 .main {
